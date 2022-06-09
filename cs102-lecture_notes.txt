@@ -3,3 +3,9 @@ git init
 git add --a
 git status
 git clone
+ create repository
+clone repository
+create empty files and staging
+
+at last we pull
+
